@@ -2,6 +2,6 @@
 Simple Gdi effects using python library : win32
 -----------------------------------------------
 
-libraries required
+#libraries required
 
-[pip install pywin32]
+[   pip install pywin32    ]
